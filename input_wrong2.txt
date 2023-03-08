@@ -1,0 +1,5 @@
+14, 0x0e, This is Monday, 0xffff
+15, 0x10, Tuesday is nicer, 0xffff
+16, 0x12, Wednesday is sunny, 0xffff
+17, 0x10, Thursday is warm, 0xff11
+18, 0x19, My favorite day is Friday, 0x00ff
